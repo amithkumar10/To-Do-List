@@ -172,7 +172,7 @@ ul li span:hover {
   }
 
   .todo-app {
-    width: 80%;
+    width: 85%;
     max-width: 540px;
     height: auto;
     max-height: 500px;
@@ -202,7 +202,7 @@ ul li span:hover {
     margin-top: 13px;
     padding-left: 20px;
     margin-bottom: 20px;
-    height: 28px;
+    height: 38px;
   }
 
   input {
@@ -221,15 +221,15 @@ ul li span:hover {
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     outline: none;
-    padding: 13.5px;
-    width: 3.2rem;
+    padding: 19px;
+    width: 3.5rem;
     font-weight: 550;
-    height: 10px;
+    height: 20px;
   }
 
   ul li {
     list-style: none;
-    font-size: 13px;
+    font-size: 17px;
     padding: 19px 5px 12px 50px;
     user-select: none;
     cursor: pointer;
@@ -239,8 +239,8 @@ ul li span:hover {
   ul li::before {
     content: " ";
     position: absolute;
-    height: 18px;
-    width: 18px;
+    height: 22px;
+    width: 22px;
     border-radius: 50%;
     background-image: url(unchecked.png);
     background-size: cover;
